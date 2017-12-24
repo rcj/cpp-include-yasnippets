@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: include <optional>
+# key: incsopt
+# --
+#include `(rcj-cc-mode-std-include-directive-for-file "optional")`

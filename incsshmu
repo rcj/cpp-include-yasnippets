@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: include <shared_mutex>
+# key: incsshmu
+# --
+#include `(rcj-cc-mode-std-include-directive-for-file "shared_mutex")`

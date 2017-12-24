@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: include <deque>
+# key: incsdeq
+# --
+#include `(rcj-cc-mode-std-include-directive-for-file "deque")`

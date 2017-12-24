@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: include <initializer_list>
+# key: incsinit
+# --
+#include `(rcj-cc-mode-std-include-directive-for-file "initializer_list")`

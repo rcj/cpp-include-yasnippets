@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: include <cwctype>
+# key: incswctype
+# --
+#include `(rcj-cc-mode-std-include-directive-for-file "cwctype")`
